@@ -1,4 +1,5 @@
 name = "Pravin"
 
 print("Hello", name)
-print("GitHub Actions is working!")
+print("I changed my code!")
+print("GitHub Actions is running automatically!")
